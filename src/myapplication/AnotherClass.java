@@ -11,5 +11,6 @@ package myapplication;
 public class AnotherClass {
     public AnotherClass() {
         System.out.println("another changes");
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
 }
