@@ -9,7 +9,5 @@ package myapplication;
  * @author andrew
  */
 public class AnotherClass {
-    public AnotherClass() {
-        
-    }
+    
 }
