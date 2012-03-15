@@ -10,6 +10,7 @@ package myapplication;
  */
 public class NewClass {
     public NewClass() {
-        
+        System.out.println("");
+        System.out.println("aaaaaaaaaaaaaa");
     }
 }
