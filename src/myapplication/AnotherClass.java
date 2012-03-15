@@ -10,6 +10,6 @@ package myapplication;
  */
 public class AnotherClass {
     public AnotherClass() {
-        
+        System.out.println("another changes");
     }
 }
