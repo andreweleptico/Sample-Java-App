@@ -16,5 +16,6 @@ public class MyApplication {
     public static void main(String[] args) {
         System.out.println("sample git project");
         System.out.println("a change that will be committed to HEAD");
+        System.out.println("a change again");
     }
 }
